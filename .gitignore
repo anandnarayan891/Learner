@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+#this is the file , where every file specified will be ignored from the git track
+
+
+#this is for the password and other local credentials
+config.php
+
+#MAC OS X file
+.DS_Store
+
+#Vim leave behinds 
+*.swp
+=======
+config.php
+>>>>>>> authorization
